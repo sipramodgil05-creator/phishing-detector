@@ -21,4 +21,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/phishing-detector.git
+   git clone https://phishing-detector-nappy5p6qpqzknykhndn5r5.streamlit.app/
